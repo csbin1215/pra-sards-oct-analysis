@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Analysis code for: Comparison of SD-OCT findings between PRA and SARDS in dogs"
+version: v1.0.0
+date-released: 2026-10-21
+license: MIT
+authors:
+  - family-names: Cho
+    given-names: Soobin
+    affiliation: "Seoul National University"
+    orcid: "https://orcid.org/0009-0007-5702-3966"
+  - family-names: Kim
+    given-names: Dohyeong
+  - family-names: Kim
+    given-names: Taekkyung
+  - family-names: Kim
+    given-names: Goeun
+  - family-names: Seo
+    given-names: Junehee
+  - family-names: Lee
+    given-names: Eunji
+  - family-names: Kang
+    given-names: Seonmi
+  - family-names: Seo
+    given-names: Kangmoon
+    affiliation: "Seoul National University"
