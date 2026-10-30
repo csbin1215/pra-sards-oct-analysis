@@ -2,7 +2,7 @@
 
 Analysis code and de-identified data for:
 
-> Cho S, Kim D, Kim T, Kim G, Seo J, Lee E, Kang S, Seo K. Comparison of Spectral-Domain Optical Coherence Tomography Findings between Progressive Retinal Atrophy and Sudden Acquired Retinal Degeneration Syndrome in dogs: A Retrospective Case Series. *Journal of Veterinary Science* (submitted).
+> Cho S, Kim D, Kim T, Kim G, Seo J, Lee E, Kang S, Seo K. Comparison of Optical Coherence Tomography Findings between Progressive Retinal Atrophy and Sudden Acquired Retinal Degeneration Syndrome in dogs. *Journal of Veterinary Science* (submitted).
 
 ## Contents
 
